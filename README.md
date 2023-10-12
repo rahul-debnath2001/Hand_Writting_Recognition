@@ -19,14 +19,13 @@ The fusion of the MNIST dataset, CNN algorithm, and OCR tool creates a powerful 
 The Handwriting Recognition project with OCR tool represents a significant advancement in digitizing and interpreting handwritten text. Its impact extends across industries and disciplines, enabling efficient data management, enhancing research capabilities, and paving the way for new possibilities in the realm of handwritten document analysis.
 
 # Screenshots
-![image1](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/c555dc73-452f-47ac-8fdf-4406f8579d8b)
-![image5](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/3460dc5b-0edb-40a4-a294-cfe08f7a3431)
-![image4output](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/407c8f0b-2f48-4264-bee0-06d51c5c5abf)
-![image4](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/b3a299ef-e457-404d-b42b-ff6e1dda4414)
-![image3](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/fef761a4-257c-4b6b-9652-d42c11d846dc)
-![image2output](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/45452e1d-b4c7-45d6-88b6-19d742a3e23f)
-![image2](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/08fcc36c-7c70-44bd-9226-32b404002bce)
-![image1output](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/267c49ab-a5b3-486c-b4ff-e93e7afdc9c4)
+
+![image1](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/606c3378-8195-422f-a09e-21b8dacc2dda)
+![image1output](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/61a4adb2-5b5e-47d0-921e-0e0468b97825)
+![image2](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/53e6ac0b-4790-469d-8d2f-b9d00957381d)
+![image2output](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/249c0dce-fc32-4b38-a273-eac7261d64eb)
+![image4](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/25ae6568-ee7e-4b25-8028-95813d18c3ab)
+![image4output](https://github.com/rahul-debnath2001/Hand_Writting_Recognition/assets/79798858/f444cc3d-d3ed-44c4-9477-028753b2442a)
 
 
 # Made by Rahul Debnath
